@@ -1,0 +1,41 @@
+.sidebar {
+  background-color: #fff;
+  width: 150px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 110px; 
+}
+
+.sidebar-links {
+  list-style-type: none;
+  margin-top: 10%; 
+  padding: 10%;
+}
+
+.sidebar-links li {
+  margin-bottom: 60px; 
+}
+
+.sidebar-links a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 16px; 
+}
+
+.sidebar-links a:hover {
+  text-decoration: underline;
+  color: #ff5733;
+}
+
+.item1,
+.item2,
+.item3 {
+  color: #000000;
+  font-family: "Times New Roman";
+  font-weight: normal;
+  text-decoration: none;
+}
+
+
