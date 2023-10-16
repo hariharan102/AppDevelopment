@@ -1,0 +1,30 @@
+.about-us-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: justify;
+  background-color: #f9f9f9; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.about-us-container h1,
+.about-us-container h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.about-us-container p {
+  margin-bottom: 20px;
+}
+
+
+@media screen and (max-width: 600px) {
+  .about-us-container {
+    padding: 10px;
+  }
+}
+.ab 
+{
+  margin-top: 0px;
+}
